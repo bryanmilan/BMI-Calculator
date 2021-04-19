@@ -29,4 +29,5 @@ export class HomePage {
       this.message = "Obese";
   }
 
+  }
 }
